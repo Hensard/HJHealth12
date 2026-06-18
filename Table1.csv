@@ -1,0 +1,8 @@
+Dataset,Description,Source
+Severe malaria surveillance data,Monthly severe malaria cases ,https://dhis2nigeria.org.n [33]
+Administrative Boundaries,"State, LGA and Ward boundaries ",https://data.humdata.org/ [34]
+Health facilities,Health facility locations,https://data.grid3.org/ [35]
+Population raster,Population distribution raster,https://www.worldpop.org/ [36]
+Travel time raster,Travel time to healthcare facilities,Derived
+Climate,Climate Variables,https://www.ecmwf.int/en/era5-land [37]
+PfPR raster,Plasmodium falciparum parasite rate,"https://malariaatlas.org/ [38, 39]"
